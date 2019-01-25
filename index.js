@@ -21,5 +21,5 @@
   const fareTripler = createFareMultiplier(3); 
   
   const fetchSpecifiedDrivers = function (drivers, func) {
-  return func(drivers);
+    return func(drivers);
 }; 
