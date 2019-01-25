@@ -16,4 +16,4 @@
     }; 
   };
   
-  
+  const fareDoubler = createFareMultiplier * 2; 
